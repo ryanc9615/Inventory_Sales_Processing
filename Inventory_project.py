@@ -37,7 +37,7 @@ while True:
         print(f"Warning: '{product_name}' already exists. Values will be updated.")
 
     product_data[product_name] = {
-        "cost_price": cost_price,
+        "cost price": cost_price,
         "quantity": quantity, 
         "sale_price": sales_price
     }
